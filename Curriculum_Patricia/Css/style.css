@@ -1,0 +1,70 @@
+h1,
+h2 {
+  color: #005677;
+  background-color: #c4c4c4;
+  font-family: 'Prompt', sans-serif;
+  letter-spacing: 10px;
+}
+h1 {
+  font-size: 40px;
+  line-height:70px;
+  text-align: center;
+}
+.Logo {
+  margin-left:45%;
+  margin-bottom:40px;;
+}
+
+footer{
+    background-color: #005677;
+}
+span.Telefono{
+    margin-left:40%;
+    color: white;
+    font-size: 20px;
+    font-family: 'Prompt', sans-serif;
+    line-height:40px;
+}
+img.Instagram{
+    width: 25px;
+    height: 25px;
+    margin-top:10px; ;
+    margin-left:20px;
+}
+img.Linkedin{
+    width: 25px;
+    height: 25px;
+    margin-top:10px; ;
+    margin-left:20px;
+    align-items: center;
+}
+
+img.Github{
+    width: 25px;
+    height: 25px;
+    margin-top:10px; ;
+    margin-left:20px; 
+}
+
+body{
+    font-family: 'Prompt', sans-serif;
+}
+
+ul,dl{
+    font-size:17px;
+    margin-left: 30px;
+}
+h2{
+    padding-left: 30px;
+    line-height:40px;
+}
+
+#fotop{
+    text-align: center;
+}
+
+header{
+    background-image: url('../Img/banner-g5b9412682_640.jpg');
+    background-repeat: repeat-x;
+}
+
